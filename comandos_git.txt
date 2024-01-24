@@ -1,0 +1,58 @@
+(pwd)para saber la carpeta donde estas
+(cd)para navegar en carpetas
+(cd)
+(code y elnombre del archivo)abrir visual studio
+(ls)listar los archivos
+(la -al)listar
+(ctrl  l)limpiar consola
+(cd ..)regresar a la carpeta interior
+(mkdir y el nombre de la carpeta)crear carpetas
+(cd nombre de la carpeta )ir a la carpeta creada
+(touch y nombre de el archivo)crear archivo vacios
+(cat)ir al contenido del archivo
+(history)recordar todos los comandos
+(rm) y nombre ddel archivo se va aborrar)
+(rm --help)mostrar todos los comandos para borrar archivos
+(git init) ir al repository
+(ls -al)ir a la carpeta oculta
+(git status) ver el estado del proyecto
+(git rm historia.txt)borrar archivo
+(git rm cached histiria.txt)esta en memoria ram no guardado en la bese de datos
+(git add historia.txt)volver a la carpeta
+(git commit -m "este es mi primer comit en este archivo")para enviar al repositorio master
+(git config --global user.name)crear usuario en la carpeta principal de git
+(git config --global user.email)crear emailen la carpeta principal de git 
+(git config --list)ver el user creado en la carpeta principal
+(cat historia.txt)ver el contenido del archivo
+(git log historia.txt) ver la historia del todo el archivo
+(git show historia.txt)ver todos los cambios que se hizieron al archivo)
+(hit add .)si tienes que guardar varios archivos
+(hit add historia.txt)solo para guardar un archivo y esta en memoria ram
+(git diff  10a6dff546ec923119b9a63ca690934148e950b1 9e2a10c761b1971ac6769442a400b847f9ca8494^C)comparar el commit más reciente con los anteriores
+(git log --stat)ver los cambios específicos en cuáles archivos y todo los cambios que se hicieron
+(git checkout 9e2a10c761b1971ac6769442a400b847f9ca8494 historia.txt) copiamos el commit del archivo que quiero volver y se pone el nombre del archivo
+(git checkout master historia.txt) para volver a la ultima version
+(git reset 1303b4a239e669e4d9cea2e2b590bad1f509d73a --soft)para volver a una vercion anteriorse pega el codigo de la vercion que se quiere volvelr
+(git reset 1303b4a239e669e4d9cea2e2b590bad1f509d73a --hard)para volver todo al inicio
+(git diff )para ver que cambios se hicieron yl o que esta enel disco duro
+(git branch)crear rama
+(git checkout cabesera)para ir a la rama
+(git commit -am"mensaje xxxxxxxxxxxxxx")
+(git merge cabesera)unir la rama el la que estoy trabajando con la rama master
+(git pull)para hacer una copia del proyecto al repositorio y alarea de trabajo
+(git clone url)trae una opia del proyecto original al repositorio y al staging
+(git log --stat)para ver donde se hicieron los cabios al archivo
+(ssh-keygen -t rsa -b 4096 -C "cjlopezortiz1991@gmail.com")crear llave privada
+(ssh-add ~/.ssh/id_rsa)agregar llave privda
+(eval $(ssh-agent -s) )comprobar que el servidor este ensendido
+(git remote add irigin mas direcccioc https://github.com/carlos55859/blogpost.git
+)agregar un origen remoto
+(git remote) ver el origin
+(git remote -v)ver todo
+(git --  master) enviar los archivos
+(git push origin main)para traer los archivos
+(git push origin cabecera2 --allow-unrelated-histories)unir el master local con la rama master del servidor
+(git remote add origin y enlace )subir proyecto a git
+(git remote)ver que se guardo
+carlos55859
+Gitlopez2023
