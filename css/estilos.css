@@ -80,8 +80,10 @@ body {
     margin: 0;
     padding: 2;
 }
-#container h6 {
-    color: rgb(202, 223, 20);
+
+#container h5 {
+    color: rgb(161, 20, 20);
+
     text-align: center;
     font-family: 'arial';
     margin: 0;
