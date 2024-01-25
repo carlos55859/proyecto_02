@@ -34,6 +34,21 @@ body {
     font-size: 0.8em;
 }
 
+#prueba {
+    background: rgb(148, 170, 51);
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.75);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    margin: 0;
+    padding: 1em;
+}
+
+#prueba #taglines {
+    padding: 1em 0 0 0;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
 #container h2 {
     color: rgb(225, 228, 21);
     text-align: center;
