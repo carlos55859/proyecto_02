@@ -1,0 +1,52 @@
+body{
+
+    color:rgb(20, 255, 20);
+    text-align: center;
+    font-family: 'arial';
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+}
+#container h1{
+font-size: 20px;
+}
+#cabecera2{
+    background: #33A;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.75);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 1em;
+}
+#cabecera2 #tagline{
+    padding: 1em 0 0 0;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+#container h2{
+    color:rgb(225, 228, 21);
+    text-align: center;
+    font-family: 'arial';
+    margin: 0;
+    padding: 0;
+}
+#container h1{
+    color:rgb(255, 20, 32);
+    text-align: center;
+    font-family: 'arial';
+    margin: 0;
+    padding: 2;
+}
+#container h3{
+    color:rgb(74, 20, 161);
+    text-align: center;
+    font-family: 'arial';
+    margin: 0;
+    padding: 2;
+}
