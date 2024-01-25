@@ -48,6 +48,19 @@ body {
     font-weight: normal;
     font-size: 0.8em;
 }
+#otraprueba {
+    background: rgb(170, 51, 71);
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.75);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    margin: 0;
+    padding: 1em;
+}
+#otraprueba #taglineotra {
+    padding: 1em 0 0 0;
+    font-weight: normal;
+    font-size: 0.8em;
+}
 
 #container h2 {
     color: rgb(225, 228, 21);
@@ -80,8 +93,17 @@ body {
     margin: 0;
     padding: 2;
 }
+
 #container h5 {
     color: rgb(161, 20, 20);
+    text-align: center;
+    font-family: 'arial';
+    margin: 0;
+    padding: 2;
+}
+
+#container h6 {
+    color: rgb(62, 20, 161);
     text-align: center;
     font-family: 'arial';
     margin: 0;
