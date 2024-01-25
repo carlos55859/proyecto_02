@@ -42,38 +42,3 @@ font-size: 20px;
     font-weight: normal;
     font-size: 0.8em;
 }
-#container h2{
-    color:rgb(225, 228, 21);
-    text-align: center;
-    font-family: 'arial';
-    margin: 0;
-    padding: 0;
-}
-#container h1{
-    color:rgb(255, 20, 32);
-    text-align: center;
-    font-family: 'arial';
-    margin: 0;
-    padding: 2;
-}
-#container h3{
-    color:rgb(74, 20, 161);
-    text-align: center;
-    font-family: 'arial';
-    margin: 0;
-    padding: 2;
-}
-#container h4{
-    color:rgb(161, 20, 55);
-    text-align: center;
-    font-family: 'arial';
-    margin: 0;
-    padding: 2;
-}
-#container h5{
-    color:rgb(29, 161, 20);
-    text-align: center;
-    font-family: 'arial';
-    margin: 0;
-    padding: 2;
-}
