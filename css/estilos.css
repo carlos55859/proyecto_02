@@ -29,6 +29,19 @@ font-size: 20px;
     font-weight: normal;
     font-size: 0.8em;
 }
+#cabecera3{
+    background: rgb(170, 51, 67);
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.75);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 1em;
+}
+#cabecera3 #tagline{
+    padding: 1em 0 0 0;
+    font-weight: normal;
+    font-size: 0.8em;
+}
 #container h2{
     color:rgb(225, 228, 21);
     text-align: center;
