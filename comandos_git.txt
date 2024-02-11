@@ -50,9 +50,8 @@
 (git remote) ver el origin
 (git remote -v)ver todo
 (git --  master) enviar los archivos
-(git push origin main)para traer los archivos
-(git push origin cabecera2 --allow-unrelated-histories)unir el master local con la rama master del servidor
+(git pullorigin main)para traer los archivos
+(git pull origin cabecera2 --allow-unrelated-histories)unir el master local con la rama master del servidor
 (git remote add origin y enlace )subir proyecto a git
 (git remote)ver que se guardo
 carlos55859
-Gitlopez2023
