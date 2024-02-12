@@ -39,19 +39,38 @@
 (git checkout cabesera)para ir a la rama
 (git commit -am"mensaje xxxxxxxxxxxxxx")
 (git merge cabesera)unir la rama el la que estoy trabajando con la rama master
+<<<<<<< HEAD
 (git pull)para hacer una copia del proyecto al repositorio y alarea de trabajo
+=======
+(git pull origin master)para hacer una copia del proyecto al repositorio y alarea de trabajo
+>>>>>>> f44372b6dd004132f4f66b7a3d22e615da585d69
 (git clone url)trae una opia del proyecto original al repositorio y al staging
 (git log --stat)para ver donde se hicieron los cabios al archivo
 (ssh-keygen -t rsa -b 4096 -C "cjlopezortiz1991@gmail.com")crear llave privada
 (ssh-add ~/.ssh/id_rsa)agregar llave privda
 (eval $(ssh-agent -s) )comprobar que el servidor este ensendido
+<<<<<<< HEAD
 (git remote add irigin mas direcccioc https://github.com/carlos55859/blogpost.git
+=======
+(git remote add origin mas direcccioc https://github.com/carlos55859/blogpost.git
+>>>>>>> f44372b6dd004132f4f66b7a3d22e615da585d69
 )agregar un origen remoto
 (git remote) ver el origin
 (git remote -v)ver todo
 (git --  master) enviar los archivos
+<<<<<<< HEAD
 (git pullorigin main)para traer los archivos
 (git pull origin cabecera2 --allow-unrelated-histories)unir el master local con la rama master del servidor
 (git remote add origin y enlace )subir proyecto a git
 (git remote)ver que se guardo
 carlos55859
+=======
+(git push origin main)para traer los archivos
+(git push origin cabecera2 --allow-unrelated-histories)unir el master local con la rama master del servidor
+(git remote add origin y enlace )subir proyecto a git
+(git remote)ver que se guardo
+carlos55859
+Gitlopez2023
+(git branch -M main(cambiar master a main
+(git show-branch --all) ver cuantas ramas existen 
+>>>>>>> f44372b6dd004132f4f66b7a3d22e615da585d69
